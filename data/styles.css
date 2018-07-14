@@ -55,6 +55,15 @@
 }
 ._流程形状 {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .paragraph {
   text-align:left;
 }
@@ -99,6 +108,9 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  text-align:left;
+}
 .line1 {
 }
 ._表格 {
@@ -109,4 +121,7 @@
 ._鼠标悬停文本链接时 {
 }
 ._鼠标按下文本链接时 {
+}
+.checkbox {
+  text-align:left;
 }
